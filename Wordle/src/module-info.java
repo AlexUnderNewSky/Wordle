@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Samael
+ *
+ */
+module Wordle {
+}
